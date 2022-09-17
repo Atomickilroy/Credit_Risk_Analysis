@@ -25,54 +25,66 @@
 
 From the Random Oversampling:
 
-Precision, reliablitiy of possitive classifitcation, is low (0.01) for predicting high credit risk .
-The recall,  ability to classify, is low(0.63) for pridicting high credit risk. 
-The F1 score, the weighted true-positives rate is for prdicting risk(0.02).
+    Precision, reliablitiy of possitive classifitcation, is low (0.01) for predicting high credit risk .
+
+    The recall,  ability to classify, is low(0.63) for pridicting high credit risk. 
+
+    The F1 score, the weighted true-positives rate is for prdicting risk(0.02).
 
 ### SMOTE Oversampling:
 ![mobile](https://github.com/Atomickilroy/Credit_Risk_Analysis/blob/main/png/SMOTE%20Oversampling.png) 
 
 From the SMOTE Oversampling:
 
-Precision, reliablitiy of possitive classifitcation, for predicting high credit risk is low (0.01).
-The recall,  ability to classify, is low(0.62) for pridicting high credit risk. 
-The F1 score, the weighted true-positives rate is for prdicting risk(0.02).
+    Precision, reliablitiy of possitive classifitcation, for predicting high credit risk is low (0.01).
+
+    The recall,  ability to classify, is low(0.62) for pridicting high credit risk. 
+
+    The F1 score, the weighted true-positives rate is for prdicting risk(0.02).
 
 ### RandomUnderSampler:
 ![map](https://github.com/Atomickilroy/Credit_Risk_Analysis/blob/main/png/Resample%20the%20data%20using%20the%20ClusterCentroids%20resampler.png)
 
-From the SMOTE Oversampling:
+From the RandomUnderSampler:
 
-Precision, reliablitiy of possitive classifitcation, for predicting high credit risk is low (0.01).
-The recall,  ability to classify, is low(0.63) for pridicting high credit risk. 
-The F1 score, the weighted true-positives rate is for prdicting risk(0.02).
+    Precision, reliablitiy of possitive classifitcation, for predicting high credit risk is low (0.01).
+
+    The recall,  ability to classify, is low(0.63) for pridicting high credit risk. 
+
+    The F1 score, the weighted true-positives rate is for prdicting risk(0.02).
 
 ### SMOTEENN:
 ![mobile](https://github.com/Atomickilroy/Credit_Risk_Analysis/blob/main/png/Combination%20(Over%20and%20Under)%20Sampling.png)
 
 From the SMOTEENN Over/Under Sampling:
 
-Precision, reliablitiy of possitive classifitcation, for predicting high credit risk is low (0.01).
-The recall,  ability to classify, is low(0.72) for pridicting high credit risk. 
-The F1 score, the weighted true-positives rate is for prdicting risk(0.02).
+    Precision, reliablitiy of possitive classifitcation, for predicting high credit risk is low (0.01).
+
+    The recall,  ability to classify, is low(0.72) for pridicting high credit risk. 
+
+    The F1 score, the weighted true-positives rate is for prdicting risk(0.02).
 
 ### BalancedRandomForestClassifier:
 ![mobile](https://github.com/Atomickilroy/Credit_Risk_Analysis/blob/main/png/Balanced%20Random%20Forest%20Classifier.png) 
 
 From the BalancedRandomForestClassifier:
 
-Precision, reliablitiy of possitive classifitcation, for predicting high credit risk is low (0.04).
-The recall,  ability to classify, is low(0.67) for pridicting high credit risk. 
-The F1 score, the weighted true-positives rate is for prdicting risk(0.07).
+    Precision, reliablitiy of possitive classifitcation, for predicting high credit risk is low (0.04).
+
+    The recall,  ability to classify, is low(0.67) for pridicting high credit risk. 
+
+    The F1 score, the weighted true-positives rate is for prdicting risk(0.07).
 
 ### Ensemble AdaBoost Classifier:
 ![mobile](https://github.com/Atomickilroy/Credit_Risk_Analysis/blob/main/png/Ensemble%20AdaBoost%20Classifier.png)
 
 From the Ensemble AdaBoost Classifier:
 
-Precision, reliablitiy of possitive classifitcation, for predicting high credit risk is low (0.85).
-The recall,  ability to classify, is low(0.38) for pridicting high credit risk. 
-The F1 score, the weighted true-positives rate is for prdicting risk(0.52).
+    Precision, reliablitiy of possitive classifitcation, for predicting high credit risk is low (0.85).
+
+    The recall,  ability to classify, is low(0.38) for pridicting high credit risk. 
+
+    The F1 score, the weighted true-positives rate is for prdicting risk(0.52).
 
 
 ## Conclusion
